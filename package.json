@@ -1,0 +1,14 @@
+{
+  "name": "tugas2-sanbercode",
+  "version": "1.0.0",
+  "description": "tugas javascript sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node soal1.js"
+  },
+  "author": "taufikriski",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
